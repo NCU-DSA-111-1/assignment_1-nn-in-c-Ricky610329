@@ -294,4 +294,4 @@ After training magic happened the outputs are:
   [1, 1] -> 0.002324
 ```
 
-Further analysis: [109503522_assignment.pdf)](./109503522_assignment.pdf)
+Further analysis: [109503522_assignment_1.pdf)](./109503522_assignment_1.pdf)
